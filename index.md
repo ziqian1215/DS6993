@@ -6,12 +6,11 @@
 - **Student:** Ziqian Zhang  
 - **Instructor:** Aiying Zhang  
 - **Meeting Time:** Thurs 1:00 - 2:00 pm
-- **Format:** Independent research with faculty supervision  
 
 ### Course Description
 
-This independent study focuses on advanced research training in data science under the supervision of an SDS faculty member.  
-The course is designed to develop skills in literature review, methodological design, implementation, and scholarly communication through a focused research project not covered by existing DS course offerings.
+This independent study focuses on the fundamental principles of functional magnetic resonance imaging (fMRI) within the broader context of neuroscience and neuroimaging. 
+The course draws on established educational resources in the field, including selected lectures from the *Fundamental Neuroscience for Neuroimaging* and *Principles of fMRI* courses offered by Johns Hopkins University. Core topics include the physical and physiological basis of the BOLD fMRI signal, experimental design, preprocessing pipelines, and foundational statistical models for fMRI data analysis. The goal of the course is to develop a solid conceptual foundation that enables the student to critically evaluate fMRI research and prepare for more advanced neuroimaging studies.
 
 ---
 
@@ -19,12 +18,11 @@ The course is designed to develop skills in literature review, methodological de
 
 By the end of this course, the student will be able to:
 
-- Conduct a comprehensive literature review in a specialized research area  
-- Formulate and refine research questions grounded in prior work  
-- Design and implement appropriate data science methodologies  
-- Critically evaluate empirical results and limitations  
-- Communicate research findings through written and oral formats  
-
+- Explain the physical and physiological basis of the BOLD fMRI signal  
+- Describe common fMRI experimental designs and their assumptions  
+- Understand standard fMRI preprocessing steps and their purposes  
+- Interpret basic statistical models used in fMRI data analysis  
+- Critically read and evaluate fMRI research papers
 ---
 
 ### Schedule
