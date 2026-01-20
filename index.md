@@ -27,7 +27,7 @@ By the end of this course, the student will be able to:
 
 ---
 
-## Schedule
+### Schedule
 
 <u><strong>Jan 22 2026</strong></u>: Course overview and introduction to fMRI  
 - Overview of functional MRI and its role in neuroscience  
