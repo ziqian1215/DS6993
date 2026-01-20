@@ -1,5 +1,3 @@
-# DS 6993
-
 ## Independent Study – Spring 2026
 
 
