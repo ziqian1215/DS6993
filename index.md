@@ -5,7 +5,7 @@
 
 - **Student:** Ziqian Zhang  
 - **Instructor:** Aiying Zhang  
-- **Meeting Time:** Thurs 12:00 - 1:00 pm
+- **Meeting Time:** Thurs 1:00 - 2:00 pm
 - **Format:** Independent research with faculty supervision  
 
 ### Course Description
