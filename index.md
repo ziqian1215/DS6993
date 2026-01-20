@@ -27,55 +27,65 @@ By the end of this course, the student will be able to:
 
 ---
 
-### Weekly Schedule
+## Schedule
 
-### Week 1
-- Topic: Research planning and scope definition  
-- Activities: Discussion of goals and expectations  
+<u><strong>Jan 22 2026</strong></u>: Course overview and introduction to fMRI  
+- Overview of functional MRI and its role in neuroscience  
+- Structure of the course and learning objectives
 
-### Week 2
-- Topic: Literature review strategies  
-- Activities: Annotated bibliography  
+<u><strong>Jan 29 2026</strong></u>: Fundamental neuroscience for neuroimaging  
+- Basic brain organization and neural signaling  
+- Neurovascular coupling
 
-### Week 3
-- Topic: Theoretical background  
-- Activities: Reading discussion and concept summary  
+<u><strong>Feb 05 2026</strong></u>: MRI physics fundamentals  
+- Nuclear magnetic resonance  
+- Image formation and spatial encoding
 
-### Week 4
-- Topic: Research question formulation  
-- Activities: Written research proposal draft  
+<u><strong>Feb 12 2026</strong></u>: The BOLD fMRI signal  
+- Physiological basis of the BOLD response  
+- Hemodynamic response function (HRF)
 
-### Week 5
-- Topic: Methodological design  
-- Activities: Drafting methods section  
+<u><strong>Feb 19 2026</strong></u>: fMRI experimental design  
+- Block vs. event-related designs  
+- Timing, efficiency, and assumptions
 
-### Week 6
-- Topic: Data acquisition and preprocessing  
-- Activities: Data exploration  
+<u><strong>Feb 26 2026</strong></u>: fMRI data acquisition and artifacts  
+- Spatial and temporal resolution  
+- Motion and physiological noise
 
-### Week 7
-- Topic: Implementation I  
-- Activities: Initial analysis and coding  
+<u><strong>Mar 05 2026</strong></u>: *Spring Break — no class*
 
-### Week 8
-- Topic: Implementation II  
-- Activities: Progress review with instructor  
+<u><strong>Mar 12 2026</strong></u>: Preprocessing I  
+- Slice timing correction  
+- Motion correction and spatial normalization
 
-### Week 9
-- Topic: Evaluation and validation  
-- Activities: Robustness checks  
+<u><strong>Mar 19 2026</strong></u>: Preprocessing II  
+- Spatial smoothing  
+- Quality control and preprocessing choices
 
-### Week 10
-- Topic: Results synthesis  
-- Activities: Drafting results section  
+<u><strong>Mar 26 2026</strong></u>: Statistical modeling I  
+- General Linear Model (GLM) for fMRI  
+- Design matrices and contrasts
 
-### Week 11
-- Topic: Writing and presentation preparation  
-- Activities: Full report draft  
+<u><strong>Apr 02 2026</strong></u>: Statistical modeling II  
+- Multiple comparisons and statistical inference  
+- Thresholding and correction methods
 
-### Week 12
-- Topic: Final revisions  
-- Activities: Final report submission and oral presentation  
+<u><strong>Apr 09 2026</strong></u>: Advanced topics I  
+- Functional connectivity  
+- Network-based analyses
+
+<u><strong>Apr 16 2026</strong></u>: Advanced topics II  
+- Multivoxel pattern analysis (MVPA)  
+- Decoding and representational approaches
+
+<u><strong>Apr 23 2026</strong></u>: Interpretation and limitations of fMRI  
+- Reverse inference  
+- Reproducibility and methodological concerns
+
+<u><strong>Apr 28 2026</strong></u>: Integration and final synthesis  
+- Summary of key principles of fMRI  
+- Preparation for advanced neuroimaging research
 
 ---
 
