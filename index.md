@@ -23,6 +23,7 @@ By the end of this course, the student will be able to:
 - Understand standard fMRI preprocessing steps and their purposes  
 - Interpret basic statistical models used in fMRI data analysis  
 - Critically read and evaluate fMRI research papers
+  
 ---
 
 ### Schedule
@@ -51,7 +52,7 @@ By the end of this course, the student will be able to:
 - Spatial and temporal resolution  
 - Motion and physiological noise
 
-<u><strong>Mar 05 2026</strong></u>: *Spring Break — no class*
+<u><strong>Mar 05 2026</strong></u>: *Spring Break — no meeting*
 
 <u><strong>Mar 12 2026</strong></u>: Preprocessing I  
 - Slice timing correction  
