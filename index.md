@@ -96,7 +96,7 @@ By the end of this course, the student will be able to:
   [Principles of fMRI (Leanpub)](https://leanpub.com/principlesoffmri)
 
 - Huettel, S. A., Song, A. W., & McCarthy, G.  
-  [Functional Magnetic Resonance Imaging, 3rd ed. (Oxford University Press)](https://global.oup.com/academic/product/functional-magnetic-resonance-imaging-9780878936274)
+  [Functional Magnetic Resonance Imaging, 3rd ed. (Oxford University Press)](https://www.scribd.com/document/756061321/Functional-Magnetic-Resonance-Imaging-3rd-Edition-ISBN-0878936270-978-0878936274)
 
 ### Online Courses and Lecture Series
 
