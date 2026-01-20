@@ -88,6 +88,34 @@ By the end of this course, the student will be able to:
 
 ---
 
-### References & Readings
+## References & Readings
 
-Specific readings (papers, articles, or book chapters) will be selected in consultation with the instructor and may be adjusted as the project evolves.
+### Core Textbooks
+
+- Lindquist, M. A., & Wager, T. D.  
+  [Principles of fMRI (Leanpub)](https://leanpub.com/principlesoffmri)
+
+- Huettel, S. A., Song, A. W., & McCarthy, G.  
+  [Functional Magnetic Resonance Imaging, 3rd ed. (Oxford University Press)](https://global.oup.com/academic/product/functional-magnetic-resonance-imaging-9780878936274)
+
+### Online Courses and Lecture Series
+
+- Johns Hopkins University  
+  [Fundamental Neuroscience for Neuroimaging (Coursera)](https://www.coursera.org/learn/neuroscience-neuroimaging)
+
+### Review Articles
+
+- Logothetis, N. K. (2008).  
+  [What we can do and what we cannot do with fMRI (*Nature*)](https://www.nature.com/articles/nature06976)
+
+- Friston, K. J., Holmes, A. P., Worsley, K. J., et al. (1994).  
+  [Statistical parametric maps in functional imaging: A general linear approach (*Human Brain Mapping*)](https://onlinelibrary.wiley.com/doi/10.1002/hbm.460020402)
+
+- Poldrack, R. A., Mumford, J. A., & Nichols, T. E.  
+  [Handbook of Functional MRI Data Analysis (Cambridge University Press)](https://www.cambridge.org/core/books/handbook-of-functional-mri-data-analysis/1D5D4C3E6E4B3D7DFAE9F92F4E8D9C1A)
+
+- Poldrack, R. A., Baker, C. I., Durnez, J., et al. (2017).  
+  [Scanning the horizon: Towards transparent and reproducible neuroimaging research (*Nature Reviews Neuroscience*)](https://www.nature.com/articles/nrn.2016.167)
+
+- Esteban, O., Markiewicz, C. J., Blair, R. W., et al. (2019).  
+  [fMRIPrep: A robust preprocessing pipeline for functional MRI (*Nature Methods*)](https://www.nature.com/articles/s41592-018-0235-4)
