@@ -2,27 +2,22 @@
 
 ## Independent Study – Spring 2026
 
----
 
-## Course Information
+### Course Information
 
 - **Student:** Ziqian Zhang  
-- **Program:** PhD in Data Science, University of Virginia  
 - **Instructor:** Aiying Zhang  
-- **Credits:** 3  
-- **Meeting Time:** Weekly or biweekly meetings (TBA)  
+- **Meeting Time:** Thurs 12:00 - 1:00 pm
 - **Format:** Independent research with faculty supervision  
 
----
-
-## Course Description
+### Course Description
 
 This independent study focuses on advanced research training in data science under the supervision of an SDS faculty member.  
 The course is designed to develop skills in literature review, methodological design, implementation, and scholarly communication through a focused research project not covered by existing DS course offerings.
 
 ---
 
-## Learning Objectives
+### Learning Objectives
 
 By the end of this course, the student will be able to:
 
@@ -34,7 +29,7 @@ By the end of this course, the student will be able to:
 
 ---
 
-## Weekly Schedule
+### Weekly Schedule
 
 ### Week 1
 - Topic: Research planning and scope definition  
@@ -86,7 +81,7 @@ By the end of this course, the student will be able to:
 
 ---
 
-## Assessment
+### Assessment
 
 - **Weekly progress and participation:** 30%  
 - **Mid-semester progress report:** 20%  
@@ -95,12 +90,6 @@ By the end of this course, the student will be able to:
 
 ---
 
-## References & Readings
+### References & Readings
 
 Specific readings (papers, articles, or book chapters) will be selected in consultation with the instructor and may be adjusted as the project evolves.
-
----
-
-## Additional Notes
-
-This independent study satisfies elective and full-time enrollment requirements for the Data Science PhD program, subject to program director approval.
