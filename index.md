@@ -112,6 +112,58 @@ By the end of this course, the student will be able to:
 - **Oral presentation:** 15%  
 
 ---
+### Mid-Semester Report
+
+**Due:** Week of Mar 10, 2026  
+
+The mid-semester report assesses the student’s understanding of core fMRI principles covered in the first half of the course.
+
+**Length:** 2–3 pages
+
+**Requirements:**  
+- Summarize key concepts related to fMRI signal generation, experimental design, and data acquisition.
+- Discuss one conceptual challenge or limitation in fMRI  
+- Draw primarily on the core textbooks used in the course or additional references
+
+### Final Project and Report
+
+**Due:** May 3, 2026  
+
+The final project focuses on the design and analysis of an fMRI study based on one or more topics covered in the course.
+
+**Length:** 4-5 pages  
+
+**Format:** written report
+
+**Project Scope:**  
+The project may focus on one or multiple topics, such as experimental design, preprocessing strategies, statistical modeling, functional connectivity, multivariate analysis, or interpretation of fMRI results.
+
+**Requirements:**  
+The final report should include:
+1. **Experimental design:**  
+   - Research question and hypothesis  
+   - Experimental paradigm
+2. **Experimental procedure:**  
+   - Data acquisition assumptions and preprocessing steps  
+   - Planned analysis approach (e.g., GLM, connectivity, or multivariate methods)  
+3. **Results:**  
+   - Description of expected, simulated, or example results  
+   - Interpretation of results in relation to the research question  
+
+### Oral Presentation
+
+**Timing:** Final weeks of the semester  
+
+The oral presentation is a presentation based on the midterm report and final project.
+
+**Length:** 20–30 minutes  
+
+**Requirements:**  
+- Summarize key fMRI principles and methodological considerations  
+- Introduce the selected project topic(s)  
+- Highlight main takeaways and conclusions
+- 
+---
 
 ## References & Readings
 
