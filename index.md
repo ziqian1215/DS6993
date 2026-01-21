@@ -161,7 +161,10 @@ The oral presentation is a presentation based on the midterm report and final pr
 - Summarize key fMRI principles and methodological considerations  
 - Introduce the selected project topic(s)  
 - Highlight main takeaways and conclusions
+
+
 ---
+
 
 ## References & Readings
 
