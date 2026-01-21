@@ -30,61 +30,77 @@ By the end of this course, the student will be able to:
 
 <u><strong>Jan 22 2026</strong></u>: Course overview and introduction to fMRI  
 - Overview of functional MRI and its role in neuroscience  
-- Structure of the course and learning objectives
+- Structure of the course and learning objectives  
+**Readings:** Huettel et al., Chapter 1; Lindquist & Wager, Chapter 1-2
 
 <u><strong>Jan 29 2026</strong></u>: Fundamental neuroscience for neuroimaging  
 - Basic brain organization and neural signaling  
-- Neurovascular coupling
+- Neurovascular coupling  
+**Readings:** Huettel et al., Chapters 6–7; Lindquist & Wager, Chapter 11  
 
 <u><strong>Feb 05 2026</strong></u>: MRI physics fundamentals  
 - Nuclear magnetic resonance  
-- Image formation and spatial encoding
+- Image formation and spatial encoding  
+**Readings:** Huettel et al., Chapters 2–4; Lindquist & Wager, Chapter 10  
 
 <u><strong>Feb 12 2026</strong></u>: The BOLD fMRI signal  
 - Physiological basis of the BOLD response  
-- Hemodynamic response function (HRF)
+- Hemodynamic response function (HRF)  
+**Readings:** Huettel et al., Chapter 7; Lindquist & Wager, Chapter 7; Logothetis, N. K. (2008). *What we can do and what we cannot do with fMRI*.
 
 <u><strong>Feb 19 2026</strong></u>: fMRI experimental design  
 - Block vs. event-related designs  
-- Timing, efficiency, and assumptions
+- Timing, efficiency, and assumptions  
+**Readings:** Huettel et al., Chapter 9; Lindquist & Wager, Chapter 14  
 
 <u><strong>Feb 26 2026</strong></u>: fMRI data acquisition and artifacts  
+- **Begin Midterm written report**
 - Spatial and temporal resolution  
 - Motion and physiological noise
+**Readings:** Huettel et al., Chapter 8; Lindquist & Wager, Chapters 12–13  
 
 <u><strong>Mar 05 2026</strong></u>: *Spring Break — no meeting*
 
 <u><strong>Mar 12 2026</strong></u>: Preprocessing I  
 - Slice timing correction  
-- Motion correction and spatial normalization
+- Motion correction and spatial normalization  
+**Readings:** Lindquist & Wager, Chapter 17; Esteban, O., et al. (2019). *fMRIPrep: A robust preprocessing pipeline for functional MRI*.
 
 <u><strong>Mar 19 2026</strong></u>: Preprocessing II  
 - Spatial smoothing  
-- Quality control and preprocessing choices
+- Quality control and preprocessing choices  
+**Readings:** Lindquist & Wager, Chapter 17 (continued); Poldrack, R. A., Mumford, J. A., & Nichols, T. E. *Handbook of Functional MRI Data Analysis*, selected sections  
 
 <u><strong>Mar 26 2026</strong></u>: Statistical modeling I  
 - General Linear Model (GLM) for fMRI  
-- Design matrices and contrasts
+- Design matrices and contrasts  
+**Readings:** Huettel et al., Chapter 10; Lindquist & Wager, Chapter 18; Friston, K. J., et al. (1994). *Statistical parametric maps in functional imaging*. *Human Brain Mapping*
 
 <u><strong>Apr 02 2026</strong></u>: Statistical modeling II  
 - Multiple comparisons and statistical inference  
-- Thresholding and correction methods
+- Thresholding and correction methods  
+**Readings:** Huettel et al., Chapter 11; Lindquist & Wager, Chapter 23  
 
 <u><strong>Apr 09 2026</strong></u>: Advanced topics I  
 - Functional connectivity  
-- Network-based analyses
+- Network-based analyses  
+**Readings:** Lindquist & Wager, Chapter 24; Huettel et al., Chapter 12 (overview sections)
 
 <u><strong>Apr 16 2026</strong></u>: Advanced topics II  
 - Multivoxel pattern analysis (MVPA)  
-- Decoding and representational approaches
+- Decoding and representational approaches  
+**Readings:**  Lindquist & Wager, Chapters 25–26; Poldrack et al., *Handbook of Functional MRI Data Analysis*, selected sections  
 
 <u><strong>Apr 23 2026</strong></u>: Interpretation and limitations of fMRI  
 - Reverse inference  
-- Reproducibility and methodological concerns
+- Reproducibility and methodological concerns  
+**Readings:** Lindquist & Wager, Chapters 5–6; Poldrack, R. A., et al. (2017). *Scanning the horizon: Towards transparent and reproducible neuroimaging research*.
 
 <u><strong>Apr 28 2026</strong></u>: Integration and final synthesis  
+- **Begin Final written report**
 - Summary of key principles of fMRI  
 - Preparation for advanced neuroimaging research
+**Readings:** Lindquist & Wager, Chapter 14 (Future directions)
 
 ---
 
